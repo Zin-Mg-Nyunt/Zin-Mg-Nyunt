@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **zinmgnyunt99@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zin-Mg-Nyunt&show_icons=true&theme=vue-dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zin-mg-nyunt-705438219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zin-mg-nyunt-705438219" height="30" width="40" /></a>
