@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/zin-mg-nyunt-705438219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zin-mg-nyunt-705438219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zin-mg-nyunt-705438219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zin-mg-nyunt-705438219" height="30" width="40" /></a>
 <a href="https://fb.com/zin.mgnyunt.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zin.mgnyunt.9" height="30" width="40" /></a>
 </p>
 
