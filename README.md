@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zinmgnyunt99@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zin-Mg-Nyunt&show_icons=true&theme=vue-dark&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zin-Mg-Nyunt&show_icons=true&theme=vue-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
