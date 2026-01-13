@@ -1,19 +1,55 @@
-<h1 align="center">Hi 👋, I'm Zin Mg Nyunt</h1>
-<h3 align="center">A Web developer from Myanmar</h3>
-
-- 🌱 I’m currently learning **Laravel,Vue**
-
-- 📫 How to reach me **zinmgnyunt99@gmail.com**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zin-Mg-Nyunt&show_icons=true&theme=vue-dark)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zin-mg-nyunt-705438219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zin-mg-nyunt-705438219" height="30" width="40" /></a>
-<a href="https://fb.com/zin.mgnyunt.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zin.mgnyunt.9" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Zin Maung Nyunt</h1>
+<p align="center">
+  <strong>Full-Stack Developer | Lifelong Learner | Problem Solver</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🎯 My Professional Goal
+I am committed to mastering the **Modern Web Ecosystem** to build high-performance, scalable, and maintainable applications. My focus is on bridging the gap between elegant frontend interfaces and robust backend architectures. I aim to contribute to meaningful projects while constantly evolving my technical skill set.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zin-Mg-Nyunt&layout=demo)](https://github.com/Zin-Mg-Nyunt/github-readme-stats)
+### 🛠️ Tech Stack & Expertise
+
+**Core Technologies:**
+- 🐘 **Backend:** PHP & Laravel (Advanced Routing, Eloquent ORM, API Design)
+- 🎨 **Frontend:** Vue.js (Composition API, State Management) & Tailwind CSS
+- 🔄 **The Bridge:** Inertia.js (Building monoliths with SPA experience)
+- 🗄️ **Database:** MySQL (Relational Schema Design & Optimization)
+
+**Tools & Environment:**
+- 🐧 **OS:** Linux (Development & Basic Server Management)
+- 🌿 **Version Control:** Git & GitHub (Collaborative Workflow)
+
+### 🚀 What I'm Working On
+- ⚡ Refining my skills in **Inertia.js** to create seamless user experiences without the complexity of separate APIs.
+- 🏗️ Deep diving into **Design Patterns** and **Clean Code** principles in Laravel.
+- 🧪 Exploring **Unit Testing** and **TDD** to ensure application reliability.
+
+### 🛠️ Languages & Tools
+
+**Core Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+</p>
+
+**Frontend & Styling:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**Tools & Environment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 📫 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/zin-maung-nyunt-705438219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zin.mgnyunt.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="mailto:zinmgnyunt99@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30" /></a>
+</p>
